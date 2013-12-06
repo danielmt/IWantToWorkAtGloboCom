@@ -1,19 +1,163 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+Área de Jornalismo ou Tsuru.
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+## Dados Pessoais
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+Daniel Mascarenhas, 32 anos, Flamengo - Rio de Janeiro.
+
+## Apresentação
+
+Desenvolvedor há 16 anos e apaixonado por tecnologia, procuro um local de trabalho que possa fomentar minha dedicação e comprometimento.
+
+Trabalho atualmente desenvolvendo sistemas e soluções para educação a distância na Fiocruz, com Java, Perl Javascript, PostgreSQL e Oracle.
+Faço a gestão técnica dos servidores web (apache, nginx e glassfish), banco (mysql, postgresql) e ci (jenkins).
+
+Trabalhei também no Laboratório de Genômica Funcional e Bioinformática, na Fiocruz, com desenvolvimento de sistemas de apoio à pesquisa.
+
+Tenho perfil autodidata e estudo constantemente novas tecnologias e paradigmas de desenvolvimento.
+
+## Experiência Profissional
+
+**Fundação Oswaldo Cruz, EAD/ENSP**
+2005-Atual
+
+*Função:* Analista de TI Sênior
+
+Análise, arquitetura, modelagem e desenvolvimento de sistemas e frameworks para as plataformas de Ensino a Distância.
+
+Implementei novos processos de trabalho e boas práticas de desenvolvimento com sistemas para acompanhamento de projetos e repositórios de código.
+
+Ministrei workshops internos para treinamento da equipe de desenvolvimento com: Perl, Java, Javascript e o framework Bootstrap.
+
+Trabalho há aproximadamente 6 anos com a plataforma de ensino a distância da Escola Nacional de Saúde Pública da FIOCRUZ.
+Sou responsável pela evolução e manutenção da plataforma, utilizada pelo Ministério da Saúde.
+
+Principais tecnologias utilizadas: Perl (mod_perl, Mojolicious, Moose, Rose::DB), Java (Hibernate, EclipseLink, PrimeFaces, Jersey), Javascript (Mootools, jQuery), MySQL, PostgreSQL e Oracle.
+
+**NetMaker**
+2005-2007
+
+*Função:* Consultor Unix e Oracle
+
+Consultoria para implementação de novos serviços e soluções para otimização do banco Oracle 9i, utilizado nas plataformas de serviço da FIOCRUZ.
+
+Principais tecnologias utilizadas: Postfix, Oracle, Linux, Solaris, FreeBSD.
+
+**Fundação Oswaldo Cruz, EAD/ENSP (IOC)**
+2003-2005
+
+*Departamento de Bioquímica e Biologia Molecular – Bioinformática*
+
+*Função:* Analista de TI
+
+Análise e desenvolvimento de sistemas e elaboração de projetos de apoio a Bioinformática com destaque nos projetos: BioParser, GenoMycDB, LocalCOG e SQUID.
+
+Mantenedor dos servidores de apoio a pesquisa.
+
+Principais tecnologias utilizadas: Perl (POE), Python, Java, MySQL, Oracle, Linux, Solaris, FreeBSD.
+
+**Coflexip Stena Offshore**
+2002
+
+*Função:* Consultor
+
+Consultoria para aprimoramento de sistema de administração de envio de projetos de engenharia por intranet em Perl e migração de MySQL para MS SQL Server.
+
+**C&C Internet Solutions/Guia Boa Viagem**
+2001-2002
+
+*Função:* Analista de TI
+
+Arquitetura e desenvolvimento de sistema para busca de Hotéis e Pousadas, com lançamento e sorteio de promoções para usuários e mala-direta.
+
+Principais tecnologias utilizadas: Perl, Javascript e MySQL.
+
+**NETbureau**
+1998-2001
+
+*Função: Analista de Sistemas*
+
+Análise e desenvolvimento de sistemas de apoio aos sites de clientes.
+
+Dentre os projetos que trabalhei, destaco: Varig Brasil, Agenco, IBEU (backend do aluno, integrado com o curso), Abolição Veículos e Starvesa (sistema de estoque e acompanhamento de serviços, Carro & Motor), Bee (ecommerce) e Vandals (ecommerce).
+
+Principais tecnologias utilizadas: PHP, Perl, Javascript e MySQL.
+
+## Formação
+
+Graduação incompleta em **Análise e Desenvolvimento de Sistemas** na Universidade Estácio de Sá
+
+## Idiomas
+
+**Inglês**: Leitura e escrita fluente, pronuncia intermediária.
+
+## Cursos
+
+ - **PO9i: Oracle 9i: Program with PL/SQL**
+   *Oracle University, DBA, 2006*
+
+ - **Introdução à Construção de Grades Computacionais**
+   *LNCC, 2004*
+
+ - **Programação Multi-Threading para Computação de Alto Desempenho**
+   *LNCC, 2004*
+
+## Trabalhos Publicados
+
+ - **BioParser: a tool for processing of sequence similarity analysis reports**
+
+   *Autores: CATANHO, M.; MASCARENHAS, D.; DEGRAVE, W.; MIRANDA, A.B.*
+
+   Applied Bioinformatics, v.5, n.1, p.49-53, 2006a
+
+ - **GenoMycDB: a database for comparative analysis of mycobacterial genes and genomes**
+
+   *Autores: CATANHO, M.; MASCARENHAS, D.; DEGRAVE, W.; MIRANDA, A.B.*
+
+   Genetic Molecular Research, v.5, n.1, p.115-126, 31 mar. 2006b
+
+ - **Classification of Transporter Families in T.cruzi**
+
+   *Autores: HENRIQUES, Cristina; OTTO, Thomas D.; CATANHO, Marcos P.; MASCARENHAS, Daniel; MIRANDA, Antonio B. de; DEGRAVE, Wim M.*
+
+   XXI Annual meeting of the Brazilian Society of Protozoology, 2005
+
+   XXII Meeting of Basic Research in Chagas Disease, Caxambú, 2005
+
+ - **SQUID - A simple bioinformatics grid.**
+
+   *Autores: MIRANDA, A. B.; DEGRAVE, Win Maurits; Glória RV; Capriles PVSZ; MASCARENHAS, Daniel; Carvalho, P; CATANHO, Marcos; Guimarães ACR.*
+
+   II Escola de Modelagem Molecular em Sistemas Biológicos, 2004, Petrópolis
+
+   Anais da II Escola de Modelagem Molecular em Sistemas Biológicos, 2004
+
+## Trabalhos Apresentados
+
+**Simplificando seu projeto com Moose**
+
+*YAPC::Brasil 2013, Curitiba, PR*
+
+Palestrei sobre a lib Moose, que introduz um sistema de objetos pós-moderno
+para Perl, e a importância de adotá-la em um projeto, evitando a introdução
+de novos bugs via boilerplates exóticos e "reinvenção da roda", problemas
+comuns em Perl.
+
+Foram apresentados: Conceitos de classe com herança simples e múltipla,
+atributos (type constraints, validações, conversões via coerce, conceitos de
+traits com delegation, triggers), conceitos de mixin com roles, e method
+modifiers (advices estilo AOP, com before/around/after).
+
+**SQUID – A Simple Bioinformatics Grid**
+*II Escola de Modelagem Molecular em Sistemas Biológicos - LNCC, RJ, 2004*
+
+*Autores: GLÓRIA R.V., CARVALHO P., MASCARENHAS D., CATANHO M., CAPRILES P.V.S.Z., GUIMARÃES A.C.R, MIRANDA A.B., DEGRAVE W.*
+
+Sistema para utilização do software científico BLAST, para análise de
+similaridade entre nucleotídeos e sequências proteicas, em infraestrutura
+distríbuida, desenvolvido em Perl.
